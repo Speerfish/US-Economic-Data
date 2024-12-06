@@ -7,6 +7,8 @@ FRED aggregates data from the Bureau of Labor Statistics including the PPI (Prod
 
 ![BLS PPI](https://github.com/user-attachments/assets/6bd54af3-7094-4074-a1a8-92573d42053f)
 
+[Everybody Loves FRED: How America Fell for a Data Tool. From Facebook political debates to college classrooms, the St. Louis Fed’s data tool has gained a major following.](https://www.nytimes.com/2024/12/06/business/economy/fred-economic-data-fandom.html)
+
 ![Screenshot 2024-10-04 at 11 40 43 AM](https://github.com/user-attachments/assets/2781a70a-7100-4de0-b7b3-e18d256bddac)
 
 All investment involves risk. 
